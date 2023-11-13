@@ -5,13 +5,14 @@
 }
 
 html {
+  height: 100vh;
   block-size: 100%;
 }
 
 .page {
-  height: 100vh;
+  display: grid;
+  place-items: center;
   margin: auto;
-  padding: 133px 30px;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
