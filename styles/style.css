@@ -9,6 +9,7 @@ html {
 }
 
 .page {
+  height: 100vh;
   margin: auto;
   padding: 133px 30px;
   color: #fff;
